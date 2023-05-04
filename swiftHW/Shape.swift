@@ -7,7 +7,7 @@
 
 import Foundation
 
-open class Shape {
+class Shape {
     open func calculateArea() -> Double {
         fatalError("Not implemented")
     }

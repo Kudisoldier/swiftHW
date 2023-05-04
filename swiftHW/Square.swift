@@ -8,7 +8,7 @@
 import Foundation
 
 class Square: Shape {
-    let side: Double
+    private let side: Double
     
     init(_ side: Double) {
         self.side = side

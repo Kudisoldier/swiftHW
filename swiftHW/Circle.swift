@@ -8,7 +8,7 @@
 import Foundation
 
 class Circle: Shape {
-    let radius: Double
+    private let radius: Double
     
     init(_ radius: Double) {
         self.radius = radius

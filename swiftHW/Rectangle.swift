@@ -8,8 +8,8 @@
 import Foundation
 
 class Rectangle: Shape {
-    let width: Double
-    let height: Double
+    private let width: Double
+    private let height: Double
     
     init(_ width: Double, _ height: Double) {
         self.width = width
