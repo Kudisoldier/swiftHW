@@ -33,6 +33,7 @@
 		22D5F1C02A03D53E00D6F3FC /* Circle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Circle.swift; sourceTree = "<group>"; };
 		22D5F1C22A03D92600D6F3FC /* Rectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rectangle.swift; sourceTree = "<group>"; };
 		22D5F1C42A03D96800D6F3FC /* Square.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Square.swift; sourceTree = "<group>"; };
+		22D5F1C62A03E36A00D6F3FC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,7 +50,7 @@
 		22D5F1AB2A03D33200D6F3FC = {
 			isa = PBXGroup;
 			children = (
-				22D5F1C42A03D96800D6F3FC /* Square.swift */,
+				22D5F1C62A03E36A00D6F3FC /* README.md */,
 				22D5F1B62A03D33200D6F3FC /* swiftHW */,
 				22D5F1B52A03D33200D6F3FC /* Products */,
 			);
@@ -69,6 +70,7 @@
 				22D5F1C22A03D92600D6F3FC /* Rectangle.swift */,
 				22D5F1C02A03D53E00D6F3FC /* Circle.swift */,
 				22D5F1BE2A03D40000D6F3FC /* Shape.swift */,
+				22D5F1C42A03D96800D6F3FC /* Square.swift */,
 				22D5F1B72A03D33200D6F3FC /* main.swift */,
 			);
 			path = swiftHW;
